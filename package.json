@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "0.0.2",
+  "description": "bot api for telegram ",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perseu912/bot.js.git"
+  },
+  "author": "perseu912",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perseu912/bot.js/issues"
+  },
+  "homepage": "https://github.com/perseu912/bot.js#readme",
+  "dependencies": {
+    "googleapis": "^42.0.0",
+    "node-fetch": "^2.6.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0"
+  }
+}
