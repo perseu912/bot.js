@@ -27,8 +27,5 @@ async function pesq(query){
 			return i.link})
 		return resp
 	}
-//pesq('joyce Oliveira porn gif')
-//.then(r => console.log(`foi ${r}`))
-
 
 module.exports = { pesqImage, pesq }
