@@ -18,7 +18,7 @@
   "homepage": "https://github.com/perseu912/bot.js#readme",
   "dependencies": {
     "googleapis": "^42.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-telegram-bot-api": "^0.30.0",
     "nodemon": "^1.19.1",
     "request": "^2.88.0"
